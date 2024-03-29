@@ -10,6 +10,12 @@ This Python script is designed to scrape data from Instagram, including user det
 - Supports custom output formats for scraped data.
 - Handles rate limits and ensures smooth scraping.
 
+ ## Screenshots
+ 
+ 
+<img width="311" alt="data1" src="https://github.com/iamkrish001/Instagram_Data-Scraper/assets/98995873/cb846d8b-93f0-4346-98d4-126228c882b4">
+<img width="790" alt="data2" src="https://github.com/iamkrish001/Instagram_Data-Scraper/assets/98995873/552c11e2-3e76-4cc9-a79c-a14b6eaf2abd">
+
 
 ## Notes
 - This script is intended for educational and research purposes only. Use it responsibly and respect Instagram's terms of service.
