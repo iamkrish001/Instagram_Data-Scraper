@@ -12,10 +12,13 @@ This Python script is designed to scrape data from Instagram, including user det
 
  ## Screenshots
  
- 
+ ### Scraped data of username b_krishhh
 <img width="311" alt="data1" src="https://github.com/iamkrish001/Instagram_Data-Scraper/assets/98995873/cb846d8b-93f0-4346-98d4-126228c882b4">
 <img width="790" alt="data2" src="https://github.com/iamkrish001/Instagram_Data-Scraper/assets/98995873/552c11e2-3e76-4cc9-a79c-a14b6eaf2abd">
 
+### Scraped contents(posts, reels) of username b_krishhh
+
+<img width="719" alt="content1" src="https://github.com/iamkrish001/Instagram_Data-Scraper/assets/98995873/3e1450ce-b8b7-467e-a834-12e761a38410">
 
 ## Notes
 - This script is intended for educational and research purposes only. Use it responsibly and respect Instagram's terms of service.
